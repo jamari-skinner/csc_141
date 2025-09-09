@@ -1,0 +1,8 @@
+#Stripping names
+name = "\n     Brad Pitt       "
+
+print(name)
+
+print(name.lstrip())
+print(name.rstrip())
+print(name.strip())
